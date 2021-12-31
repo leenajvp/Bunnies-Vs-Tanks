@@ -1,0 +1,2911 @@
+fileFormatVersion: 2
+guid: 695a839b736b0294f8405aa9a400f384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -813837506147205236
+    second: spritesheet_jumper_0
+  - first:
+      213: 8293347469794486423
+    second: spritesheet_jumper_1
+  - first:
+      213: 1853597892355885540
+    second: spritesheet_jumper_2
+  - first:
+      213: 5098017558244904072
+    second: spritesheet_jumper_3
+  - first:
+      213: 2246772651244184835
+    second: spritesheet_jumper_4
+  - first:
+      213: -8769507557905588210
+    second: spritesheet_jumper_5
+  - first:
+      213: -1310851409735625604
+    second: spritesheet_jumper_6
+  - first:
+      213: -6581458647933701428
+    second: spritesheet_jumper_7
+  - first:
+      213: 5963491299993641402
+    second: spritesheet_jumper_8
+  - first:
+      213: 8833914796368888915
+    second: spritesheet_jumper_9
+  - first:
+      213: -421788967850670785
+    second: spritesheet_jumper_10
+  - first:
+      213: 8033290449101669491
+    second: spritesheet_jumper_11
+  - first:
+      213: -3804787096323986223
+    second: spritesheet_jumper_12
+  - first:
+      213: -3156388663852639550
+    second: spritesheet_jumper_13
+  - first:
+      213: 7836784460040934028
+    second: spritesheet_jumper_14
+  - first:
+      213: 6436311824064396841
+    second: spritesheet_jumper_15
+  - first:
+      213: -1553915328502176085
+    second: spritesheet_jumper_16
+  - first:
+      213: 970378445904669988
+    second: spritesheet_jumper_17
+  - first:
+      213: -2902838607047530720
+    second: spritesheet_jumper_18
+  - first:
+      213: -2442196518366431445
+    second: spritesheet_jumper_19
+  - first:
+      213: -5334275997712107695
+    second: spritesheet_jumper_20
+  - first:
+      213: -1123581886556404535
+    second: spritesheet_jumper_21
+  - first:
+      213: 444005062040775768
+    second: spritesheet_jumper_22
+  - first:
+      213: 2278970245868392762
+    second: spritesheet_jumper_23
+  - first:
+      213: 98533949034274531
+    second: spritesheet_jumper_24
+  - first:
+      213: -8489622907493811405
+    second: spritesheet_jumper_25
+  - first:
+      213: -7568608434378900601
+    second: spritesheet_jumper_26
+  - first:
+      213: 7381570074321777263
+    second: spritesheet_jumper_27
+  - first:
+      213: 6324277675653477281
+    second: spritesheet_jumper_28
+  - first:
+      213: -8781605707314252684
+    second: spritesheet_jumper_29
+  - first:
+      213: 633668826827993585
+    second: spritesheet_jumper_30
+  - first:
+      213: 9222101475575377557
+    second: spritesheet_jumper_31
+  - first:
+      213: 2287725090447087015
+    second: spritesheet_jumper_32
+  - first:
+      213: -8946842332558284565
+    second: spritesheet_jumper_33
+  - first:
+      213: 7745006908365834864
+    second: spritesheet_jumper_34
+  - first:
+      213: -8126075557153500695
+    second: spritesheet_jumper_35
+  - first:
+      213: -5851562958575987920
+    second: spritesheet_jumper_36
+  - first:
+      213: 3530941716908211467
+    second: spritesheet_jumper_37
+  - first:
+      213: 4512581516410053449
+    second: spritesheet_jumper_38
+  - first:
+      213: 197004780872978291
+    second: spritesheet_jumper_39
+  - first:
+      213: 4813390209034808214
+    second: spritesheet_jumper_40
+  - first:
+      213: -8070034259803559229
+    second: spritesheet_jumper_41
+  - first:
+      213: -3186891715208370000
+    second: spritesheet_jumper_42
+  - first:
+      213: -4562692371437632025
+    second: spritesheet_jumper_43
+  - first:
+      213: 1537570242070005712
+    second: spritesheet_jumper_44
+  - first:
+      213: -6156425578196779017
+    second: spritesheet_jumper_45
+  - first:
+      213: -2391638262141926054
+    second: spritesheet_jumper_46
+  - first:
+      213: -6209064593177850392
+    second: spritesheet_jumper_47
+  - first:
+      213: -5561524899841230033
+    second: spritesheet_jumper_48
+  - first:
+      213: -2928664053025512029
+    second: spritesheet_jumper_49
+  - first:
+      213: 8312120077922601980
+    second: spritesheet_jumper_50
+  - first:
+      213: 7239909532429650694
+    second: spritesheet_jumper_51
+  - first:
+      213: -6489571671690978555
+    second: spritesheet_jumper_52
+  - first:
+      213: 7275059336164672046
+    second: spritesheet_jumper_53
+  - first:
+      213: -9170869638857774248
+    second: spritesheet_jumper_54
+  - first:
+      213: -8705463605978538495
+    second: spritesheet_jumper_55
+  - first:
+      213: 2943026928932020471
+    second: spritesheet_jumper_56
+  - first:
+      213: 5343944330132720808
+    second: spritesheet_jumper_57
+  - first:
+      213: 6745779173711636681
+    second: spritesheet_jumper_58
+  - first:
+      213: -699692889443070007
+    second: spritesheet_jumper_59
+  - first:
+      213: 6445780193999902037
+    second: spritesheet_jumper_60
+  - first:
+      213: 4421264195879356721
+    second: spritesheet_jumper_61
+  - first:
+      213: -9095834102236900649
+    second: spritesheet_jumper_62
+  - first:
+      213: -1082654864470305199
+    second: spritesheet_jumper_63
+  - first:
+      213: 5772635518209107687
+    second: spritesheet_jumper_64
+  - first:
+      213: 7978427450064665766
+    second: spritesheet_jumper_65
+  - first:
+      213: 6211649361133734041
+    second: spritesheet_jumper_66
+  - first:
+      213: -2525848547552606415
+    second: spritesheet_jumper_67
+  - first:
+      213: 8774333478839305021
+    second: spritesheet_jumper_68
+  - first:
+      213: 585808953348543341
+    second: spritesheet_jumper_69
+  - first:
+      213: 8914298737519480524
+    second: spritesheet_jumper_70
+  - first:
+      213: -3389418592515377845
+    second: spritesheet_jumper_71
+  - first:
+      213: -8497943690967023906
+    second: spritesheet_jumper_72
+  - first:
+      213: 3040450646808525814
+    second: spritesheet_jumper_73
+  - first:
+      213: -273712172208954642
+    second: spritesheet_jumper_74
+  - first:
+      213: -1547566470505665456
+    second: spritesheet_jumper_75
+  - first:
+      213: 4256161014973337095
+    second: spritesheet_jumper_76
+  - first:
+      213: -8126741666436047495
+    second: spritesheet_jumper_77
+  - first:
+      213: -6134602351630144964
+    second: spritesheet_jumper_78
+  - first:
+      213: 6088645973943757240
+    second: spritesheet_jumper_79
+  - first:
+      213: 1934828001766606230
+    second: spritesheet_jumper_80
+  - first:
+      213: -3728204988268400019
+    second: spritesheet_jumper_81
+  - first:
+      213: 7760413667900872712
+    second: spritesheet_jumper_82
+  - first:
+      213: -4222036339407051503
+    second: spritesheet_jumper_83
+  - first:
+      213: 9220360145937507786
+    second: spritesheet_jumper_84
+  - first:
+      213: 5620524393986455660
+    second: spritesheet_jumper_85
+  - first:
+      213: 1955770840301531055
+    second: spritesheet_jumper_86
+  - first:
+      213: 6485149329108476569
+    second: spritesheet_jumper_87
+  - first:
+      213: -7387868082908154790
+    second: spritesheet_jumper_88
+  - first:
+      213: -2413741831612480928
+    second: spritesheet_jumper_89
+  - first:
+      213: -3116498778842115939
+    second: spritesheet_jumper_90
+  - first:
+      213: 8612284628132568922
+    second: spritesheet_jumper_91
+  - first:
+      213: -8865301044339479403
+    second: spritesheet_jumper_92
+  - first:
+      213: -1017456212899326144
+    second: spritesheet_jumper_93
+  - first:
+      213: 8007817307408214865
+    second: spritesheet_jumper_94
+  - first:
+      213: 2326267530569085466
+    second: spritesheet_jumper_95
+  - first:
+      213: -4234174061443110513
+    second: spritesheet_jumper_96
+  - first:
+      213: -3417122050890625581
+    second: spritesheet_jumper_97
+  - first:
+      213: -791141685512395299
+    second: spritesheet_jumper_98
+  - first:
+      213: 912278471141509168
+    second: spritesheet_jumper_99
+  - first:
+      213: -788799176474331407
+    second: spritesheet_jumper_100
+  - first:
+      213: 2378069339964092303
+    second: spritesheet_jumper_101
+  - first:
+      213: 5528777335088897142
+    second: spritesheet_jumper_102
+  - first:
+      213: -61612738056597087
+    second: spritesheet_jumper_103
+  - first:
+      213: 2713537360159029873
+    second: spritesheet_jumper_104
+  - first:
+      213: -5369086032127668581
+    second: spritesheet_jumper_105
+  - first:
+      213: 7466652989824607254
+    second: spritesheet_jumper_106
+  - first:
+      213: 1542245895949532053
+    second: spritesheet_jumper_107
+  - first:
+      213: -5948240919831829582
+    second: spritesheet_jumper_108
+  - first:
+      213: -8544072196462123531
+    second: spritesheet_jumper_109
+  - first:
+      213: -7219969937047826330
+    second: spritesheet_jumper_110
+  - first:
+      213: 4063463955289879497
+    second: spritesheet_jumper_111
+  - first:
+      213: 3770500222574812435
+    second: spritesheet_jumper_112
+  - first:
+      213: -7590864201339478509
+    second: spritesheet_jumper_113
+  - first:
+      213: 805775353379249644
+    second: spritesheet_jumper_114
+  - first:
+      213: -4353936133548162695
+    second: spritesheet_jumper_115
+  - first:
+      213: 4575342770739127889
+    second: spritesheet_jumper_116
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_jumper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1954
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d8e00c83a3a648bc651bed4583028
+      internalID: -813837506147205236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1948
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c574aa0f326a704d92eae2773d49a12
+      internalID: 8293347469794486423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1847
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d126161154c6774e915395488d682fd
+      internalID: 1853597892355885540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1916
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de7284ff4c6cbc4aa6f2ca0f6289394
+      internalID: 5098017558244904072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1964
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f2027576d18824099d987a0266f75d
+      internalID: 2246772651244184835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1934
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47ea2622bf98a4486405b7153a23ba
+      internalID: -8769507557905588210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1858
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ba4e2ca4a5934f914e99d1f172a2c
+      internalID: -1310851409735625604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1846
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db334e326c3eebe468698c833c6df957
+      internalID: -6581458647933701428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1916
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd8c44e4d454a4ea2be12497d4ecf3
+      internalID: 5963491299993641402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_9
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1848
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9c1c1ca6bffe4680c4abfb6938831
+      internalID: 8833914796368888915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1762
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ded86d3b35e64aa7ee6d83be45544
+      internalID: -421788967850670785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1644
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5120af97d1f12a468e49f8ac41024c8
+      internalID: 8033290449101669491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_12
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1754
+        width: 117
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c099e28ce3db1c4ab29e8953f4f1361
+      internalID: -3804787096323986223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1844
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8bf979d5fef1f4badf71b2ca7f8be9
+      internalID: -3156388663852639550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fa6f41a42044946a7ce6d2c9d24a96
+      internalID: 7836784460040934028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d167fd684b5fcc4281d6822799426cf
+      internalID: 6436311824064396841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1758
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a7342506dea92479cb12f43c4ae8ac
+      internalID: -1553915328502176085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1755
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88bd24c6d404a4da85fc33332b3925
+      internalID: 970378445904669988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1642
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c45a7bac73ff41b5513c521f5d656
+      internalID: -2902838607047530720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1668
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f53cd94030ab439af2bbe6b50cbbc
+      internalID: -2442196518366431445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_20
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1597
+        width: 90
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5ba3802909acb4d832fdbb2771a7b0
+      internalID: -5334275997712107695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27bd5fd684fe141b94208202a07e72
+      internalID: -1123581886556404535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1540
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fcfe6e893aeb4784a750594c133d4
+      internalID: 444005062040775768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1558
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b992ea00d76f5f04c92cfe12a5e85338
+      internalID: 2278970245868392762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1558
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17935c872ad6043b16aff12608d93d
+      internalID: 98533949034274531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1441
+        width: 120
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b6bc505c56cf4f9048f0452493ae2
+      internalID: -8489622907493811405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1496
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477a2734b63b054fa89096d329d76af
+      internalID: -7568608434378900601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_27
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1481
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a67362c79c8b934cb135f0daaa8ddf4
+      internalID: 7381570074321777263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d28ffdccca544408135134abde5396
+      internalID: 6324277675653477281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1415
+        width: 182
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c7e5ad291dfd469d85d439b23b943
+      internalID: -8781605707314252684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1399
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ab8c07312c6f498dc75ff99798692
+      internalID: 633668826827993585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1445
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdca60a01ab5c240aa50e5984a16bf9
+      internalID: 9222101475575377557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64d26d276e8ac41b9de940e763ef21
+      internalID: 2287725090447087015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1287
+        width: 174
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab12a692c88184f41bde474daf3ae8af
+      internalID: -8946842332558284565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_34
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1323
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e7d345cef54045bc1c4c74c80f547
+      internalID: 7745006908365834864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_35
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1313
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201c07ecdee6af408ef600869a475eb
+      internalID: -8126075557153500695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1313
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01344dc2567a6654c92db544a8502d5d
+      internalID: -5851562958575987920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_37
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1190
+        width: 121
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865c7bf01aa5654895320044afa3432
+      internalID: 3530941716908211467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_38
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1298
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229145dabf5c2c49b6870660d3daf72
+      internalID: 4512581516410053449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b509206ae0911b84798cd84be94ef323
+      internalID: 197004780872978291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1104
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737eb677c2d73245b164e9207216ec4
+      internalID: 4813390209034808214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1137
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d79bc274f61f4d9a58d12d2bbf477
+      internalID: -8070034259803559229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_42
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1226
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357941b89dc7e204aa07e3f572aa7a84
+      internalID: -3186891715208370000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_43
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1209
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd276f2085092a445acb8275b66e7a80
+      internalID: -4562692371437632025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf447854d2e12a640914194eac9386c5
+      internalID: 1537570242070005712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_45
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 987
+        width: 120
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca118f47ddd5843b6a93ab576743b4
+      internalID: -6156425578196779017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1047
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0cd4e895c92e64abd7c19b9ae828ae
+      internalID: -2391638262141926054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccac29f53b5cf440ae368edb628e2f2
+      internalID: -6209064593177850392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 928
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f387f142a2bd2f41a5ee59980a7e9bf
+      internalID: -5561524899841230033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_49
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 987
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df1e083ed1c57419cd36ce8abb7bc7
+      internalID: -2928664053025512029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d85ba3be9738249996f17ba6575c2d
+      internalID: 8312120077922601980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 999
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411fe4942b0801f43930565b801d906b
+      internalID: 7239909532429650694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_52
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 961
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8fe5e51f28f634f98d171bebb9bfe1
+      internalID: -6489571671690978555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a24fb6337179e4bb80816d7c6bc450
+      internalID: 7275059336164672046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 928
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115edd7e198919e4481c64484bbb4d75
+      internalID: -9170869638857774248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_55
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 794
+        width: 120
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f74812a1ffd1a48990dcd19d89169d
+      internalID: -8705463605978538495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 830
+        width: 114
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48f937a4bf3234e83570e978684711
+      internalID: 2943026928932020471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_57
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 882
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0250c8681815a4e91bc3c48a9980ff
+      internalID: 5343944330132720808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 260
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e51ae5aeb4e104bbfa6170c8b2f0b8
+      internalID: 6745779173711636681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 796
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8335d3d86d674e9a8b7b8b143016c
+      internalID: -699692889443070007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 785
+        width: 148
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8041d98c122b844b1e24b33fe65d44
+      internalID: 6445780193999902037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_61
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 831
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9dab1548bb5194d9bcd377d74c40ad
+      internalID: 4421264195879356721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 774
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32039ede1328cd847a9125f44fa66bb8
+      internalID: -9095834102236900649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 774
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a4fe2c9b57ae34b8dd10243ed3a809
+      internalID: -1082654864470305199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_64
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 673
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e12298e76c9f2345992d7761107e072
+      internalID: 5772635518209107687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_65
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 592
+        width: 121
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0bc99e64ccdf7449b3856320069083
+      internalID: 7978427450064665766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 633
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a8de47985e9943a8cee5160f5b5dc
+      internalID: 6211649361133734041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_67
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 758
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480ac97149e73ff4395e415a7deca104
+      internalID: -2525848547552606415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_68
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 745
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad10cb9c5908dc4c9443a4b2a865f86
+      internalID: 8774333478839305021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 230
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d26c17e6d93a48865823f46bdffd9
+      internalID: 585808953348543341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 660
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ee0ccfa49b904eb16c82b4d7bb67d
+      internalID: 8914298737519480524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_71
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 686
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf51af87d1a56f488d1b6e7e28f7db0
+      internalID: -3389418592515377845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 230
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ddcab2b66014640bccc5fe47e78ac2
+      internalID: -8497943690967023906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 605
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93ee7d4cb41184aa2bda2980a982f6
+      internalID: 3040450646808525814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_74
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 597
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a81e3fc9d9779499ad12439dadc999
+      internalID: -273712172208954642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_75
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 516
+        width: 148
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf8502a935a4f44af648cba1b8f5f4
+      internalID: -1547566470505665456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_76
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 641
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7cacbfe25e23e40bba8dd221fb7c61
+      internalID: 4256161014973337095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_77
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 636
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c612ca8824be13419f98afb91c3107f
+      internalID: -8126741666436047495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 216
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc00bcffa1e6ee04fb4c47b3c1213fe2
+      internalID: -6134602351630144964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_79
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 492
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6648ec27dce9409607014494e428a
+      internalID: 6088645973943757240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 516
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e701256f7eff8d41bc423b067f846f9
+      internalID: 1934828001766606230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_81
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 383
+        width: 120
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b9d27c6aeb1840818bc98f5467ad5
+      internalID: -3728204988268400019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_82
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 476
+        width: 90
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05256cbd13b6390438e3eeeb1ce426c0
+      internalID: 7760413667900872712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 216
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2171c0a0af9549b3c0870e3c87b5d
+      internalID: -4222036339407051503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_84
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 390
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f1aaf9f0ae1b4bb65702c2b5bbb49
+      internalID: 9220360145937507786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_85
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 413
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae92f331b2f4a545a156b3798d93772
+      internalID: 5620524393986455660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 379
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b0e484a61a874b86381bbc2c974cd
+      internalID: 1955770840301531055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_87
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 389
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afb826459653c499c04c8e0f40b509
+      internalID: 6485149329108476569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_88
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 390
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee9f6e2993c38469ad94cdf913febb
+      internalID: -7387868082908154790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 211
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a140bfdfcc09834da19088a2ac9a60c
+      internalID: -2413741831612480928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 286
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee81c05628a0b44ab04384f5b32d870
+      internalID: -3116498778842115939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 207
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e6af8b17989245988cbf5fa3d4c48
+      internalID: 8612284628132568922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_92
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 238
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c63f1699eb414f8cd03947917f5ff
+      internalID: -8865301044339479403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_93
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 249
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ec671f38d880478b6e5522a1dfe7f
+      internalID: -1017456212899326144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_94
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 317
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40b4cc3772a8d489d83582e5e08af5
+      internalID: 8007817307408214865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_95
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 317
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbb2f98c1d9ee64ea42f6b3e22486b7
+      internalID: 2326267530569085466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 184
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b12bd947b04641a71dc0b568e3211
+      internalID: -4234174061443110513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 119
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4936eae8bdd14598083270985a2e4
+      internalID: -3417122050890625581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_98
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 245
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbecd1ce51e3224194c32ccbbcc979d
+      internalID: -791141685512395299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 235
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462bcf679cb439b4fbd2060a381324a3
+      internalID: 912278471141509168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_100
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 8
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2bf9f80571c744a9c64f700322c47
+      internalID: -788799176474331407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_101
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 45
+        width: 133
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da157ed21e175749a53746b8af26b00
+      internalID: 2378069339964092303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_102
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 173
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb824ab9311d69c45a3d69164f08c596
+      internalID: 5528777335088897142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 206
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78a308fe80a634ba447e5ae09af24e
+      internalID: -61612738056597087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_104
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 69
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529107ba351ee3f4c8ecc87b2fb2f19d
+      internalID: 2713537360159029873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_105
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 123
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ac5c7ba804194599f94bd37fc0897
+      internalID: -5369086032127668581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_106
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 114
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8609616fcf8b4495a245cfe84b730
+      internalID: 7466652989824607254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 145
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb2f5332649b342a37eaaf88d22a98
+      internalID: 1542245895949532053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d6b585358d08542932f80a0bd5fe6b
+      internalID: -5948240919831829582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_109
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 6
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0fbddc995b1074eba76328df7148ec
+      internalID: -8544072196462123531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_110
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd76451ab2f3ad74fbb0f5940b1fd7cd
+      internalID: -7219969937047826330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_111
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 33
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eeb6492d1a0c5408fa82ca49de4843
+      internalID: 4063463955289879497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_112
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 47
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea208626dbdd644984967f7f1fe797
+      internalID: 3770500222574812435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_113
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 41
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5df5fccc6bab7a44b19d0da80fedd75
+      internalID: -7590864201339478509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_114
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c23c08e9220f04a88bcc3662678790
+      internalID: 805775353379249644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_115
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f73fbc4fa3f64d89b87a4783a1ecc
+      internalID: -4353936133548162695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_116
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5da67a7c071e9e44a6d7a52062a6e6d
+      internalID: 4575342770739127889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98d94377b8e6cd74eb9bf87d0487c8a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2215 @@
+fileFormatVersion: 2
+guid: 48ec2c1ddc4ea074bb3c03dfa321ff21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3889926751119362961
+    second: tanks_spritesheetRetina_0
+  - first:
+      213: -5081839233547989248
+    second: tanks_spritesheetRetina_1
+  - first:
+      213: -8157879531497340130
+    second: tanks_spritesheetRetina_2
+  - first:
+      213: 1087962903206657443
+    second: tanks_spritesheetRetina_3
+  - first:
+      213: 1432162731185458913
+    second: tanks_spritesheetRetina_4
+  - first:
+      213: -4334911198945245542
+    second: tanks_spritesheetRetina_5
+  - first:
+      213: -6860882692562927261
+    second: tanks_spritesheetRetina_6
+  - first:
+      213: -2901876124070920732
+    second: tanks_spritesheetRetina_7
+  - first:
+      213: 2564567784110447629
+    second: tanks_spritesheetRetina_8
+  - first:
+      213: 849961754202031667
+    second: tanks_spritesheetRetina_9
+  - first:
+      213: 3472926253778884419
+    second: tanks_spritesheetRetina_10
+  - first:
+      213: 4168205966733465371
+    second: tanks_spritesheetRetina_11
+  - first:
+      213: -4730342957975323679
+    second: tanks_spritesheetRetina_12
+  - first:
+      213: -9108395484719442574
+    second: tanks_spritesheetRetina_13
+  - first:
+      213: -6715005282156002925
+    second: tanks_spritesheetRetina_14
+  - first:
+      213: 4433433580460934229
+    second: tanks_spritesheetRetina_15
+  - first:
+      213: -6831698931460805841
+    second: tanks_spritesheetRetina_16
+  - first:
+      213: -2019267259644291564
+    second: tanks_spritesheetRetina_17
+  - first:
+      213: 8555336778608708386
+    second: tanks_spritesheetRetina_18
+  - first:
+      213: -2028971835476022765
+    second: tanks_spritesheetRetina_19
+  - first:
+      213: -1632030908166520776
+    second: tanks_spritesheetRetina_20
+  - first:
+      213: 5144155379325231158
+    second: tanks_spritesheetRetina_21
+  - first:
+      213: 6555209138790213850
+    second: tanks_spritesheetRetina_22
+  - first:
+      213: 6098517209105273443
+    second: tanks_spritesheetRetina_23
+  - first:
+      213: 3807122773891793026
+    second: tanks_spritesheetRetina_24
+  - first:
+      213: -6400575690593570227
+    second: tanks_spritesheetRetina_25
+  - first:
+      213: 1172870859057711622
+    second: tanks_spritesheetRetina_26
+  - first:
+      213: -9105557609549119303
+    second: tanks_spritesheetRetina_27
+  - first:
+      213: -3245025503234244409
+    second: tanks_spritesheetRetina_28
+  - first:
+      213: -1320400095470527756
+    second: tanks_spritesheetRetina_29
+  - first:
+      213: 6579671327362550092
+    second: tanks_spritesheetRetina_30
+  - first:
+      213: -7701424117634864744
+    second: tanks_spritesheetRetina_31
+  - first:
+      213: -826231750376653288
+    second: tanks_spritesheetRetina_32
+  - first:
+      213: 6949993245254644132
+    second: tanks_spritesheetRetina_33
+  - first:
+      213: -120559468752799577
+    second: tanks_spritesheetRetina_34
+  - first:
+      213: -6670455242624349484
+    second: tanks_spritesheetRetina_35
+  - first:
+      213: 2276501345967918577
+    second: tanks_spritesheetRetina_36
+  - first:
+      213: -2882099359418135151
+    second: tanks_spritesheetRetina_37
+  - first:
+      213: -5580254331024027172
+    second: tanks_spritesheetRetina_38
+  - first:
+      213: -1344205044129508191
+    second: tanks_spritesheetRetina_39
+  - first:
+      213: 5067066270977469263
+    second: tanks_spritesheetRetina_40
+  - first:
+      213: 908235153688305387
+    second: tanks_spritesheetRetina_41
+  - first:
+      213: -8424597729469013244
+    second: tanks_spritesheetRetina_42
+  - first:
+      213: -2708358588567861374
+    second: tanks_spritesheetRetina_43
+  - first:
+      213: 5941360279917572040
+    second: tanks_spritesheetRetina_44
+  - first:
+      213: -6331666142955405099
+    second: tanks_spritesheetRetina_45
+  - first:
+      213: -3454954978590009445
+    second: tanks_spritesheetRetina_46
+  - first:
+      213: 6518651933228815678
+    second: tanks_spritesheetRetina_47
+  - first:
+      213: -6632574336374423114
+    second: tanks_spritesheetRetina_48
+  - first:
+      213: -5044517677442454185
+    second: tanks_spritesheetRetina_49
+  - first:
+      213: 5357047814894526234
+    second: tanks_spritesheetRetina_50
+  - first:
+      213: 8691289799585278984
+    second: tanks_spritesheetRetina_51
+  - first:
+      213: 1054849054917200824
+    second: tanks_spritesheetRetina_52
+  - first:
+      213: 4794920148264319384
+    second: tanks_spritesheetRetina_53
+  - first:
+      213: 4357299319802099866
+    second: tanks_spritesheetRetina_54
+  - first:
+      213: -7188121951697152018
+    second: tanks_spritesheetRetina_55
+  - first:
+      213: -394763222670525295
+    second: tanks_spritesheetRetina_56
+  - first:
+      213: 2790311867056892430
+    second: tanks_spritesheetRetina_57
+  - first:
+      213: 1304966407044898231
+    second: tanks_spritesheetRetina_58
+  - first:
+      213: -1459945441167046343
+    second: tanks_spritesheetRetina_59
+  - first:
+      213: -3492363371375723576
+    second: tanks_spritesheetRetina_60
+  - first:
+      213: -7149835258969124936
+    second: tanks_spritesheetRetina_61
+  - first:
+      213: 4301882543190444538
+    second: tanks_spritesheetRetina_62
+  - first:
+      213: -7208034701892444586
+    second: tanks_spritesheetRetina_63
+  - first:
+      213: -6620724234133133839
+    second: tanks_spritesheetRetina_64
+  - first:
+      213: -1838136215783486981
+    second: tanks_spritesheetRetina_65
+  - first:
+      213: -7691244022731885913
+    second: tanks_spritesheetRetina_66
+  - first:
+      213: 2877130277722892730
+    second: tanks_spritesheetRetina_67
+  - first:
+      213: -384185385837829724
+    second: tanks_spritesheetRetina_68
+  - first:
+      213: 5859647174794410495
+    second: tanks_spritesheetRetina_69
+  - first:
+      213: -8242421910871552682
+    second: tanks_spritesheetRetina_70
+  - first:
+      213: -1672693852605888827
+    second: tanks_spritesheetRetina_71
+  - first:
+      213: 4675290449451366112
+    second: tanks_spritesheetRetina_72
+  - first:
+      213: 8534599159479536917
+    second: tanks_spritesheetRetina_73
+  - first:
+      213: -1336130789410991202
+    second: tanks_spritesheetRetina_74
+  - first:
+      213: 7193683044333617628
+    second: tanks_spritesheetRetina_75
+  - first:
+      213: 6202125917450729375
+    second: tanks_spritesheetRetina_76
+  - first:
+      213: -6038469093480116163
+    second: tanks_spritesheetRetina_77
+  - first:
+      213: 7908249748041136343
+    second: tanks_spritesheetRetina_78
+  - first:
+      213: 4332293970771093083
+    second: tanks_spritesheetRetina_79
+  - first:
+      213: 2049594247479367149
+    second: tanks_spritesheetRetina_80
+  - first:
+      213: -8048275967879727213
+    second: tanks_spritesheetRetina_81
+  - first:
+      213: -6404286721656437441
+    second: tanks_spritesheetRetina_82
+  - first:
+      213: -2025071531265864926
+    second: tanks_spritesheetRetina_83
+  - first:
+      213: -1238524534658390908
+    second: tanks_spritesheetRetina_84
+  - first:
+      213: 4678154398744049606
+    second: tanks_spritesheetRetina_85
+  - first:
+      213: -2201879695669435149
+    second: tanks_spritesheetRetina_86
+  - first:
+      213: -2005454662868737711
+    second: tanks_spritesheetRetina_87
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1911
+        width: 184
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da475720a8ee99940babf3684a67d255
+      internalID: 3889926751119362961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1929
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36e065132f24c4cbdacd63e646fd5b
+      internalID: -5081839233547989248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1930
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588b1436acd5cf498bbdb5f1dee6b1b
+      internalID: -8157879531497340130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1966
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3105ed338f5cfb40850957f7d4208f5
+      internalID: 1087962903206657443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1936
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1873aa6a227c4c14e91c227d7494f4c0
+      internalID: 1432162731185458913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1772
+        width: 184
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8cbedcba21f746893685f9645d16f
+      internalID: -4334911198945245542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1808
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac5db4426e0d7409bc764eb6d22db2
+      internalID: -6860882692562927261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1851
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf07ddcab12922e4dbf078dd9c274469
+      internalID: -2901876124070920732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1828
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb427d7d5e43346884e55680146012
+      internalID: 2564567784110447629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1766
+        width: 155
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfca3d8e617894b821fd4df91cc37b
+      internalID: 849961754202031667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1772
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a56d79c78d53840bbc1330c2e3e9ec
+      internalID: 3472926253778884419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1744
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c30f8000f95264b9e1969450f1e363
+      internalID: 4168205966733465371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1633
+        width: 184
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a438afaf56211b44b99e570bb892af8
+      internalID: -4730342957975323679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1647
+        width: 150
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc0dbeec751344ab9e119d0629564a
+      internalID: -9108395484719442574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1728
+        width: 133
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e656daa8608a024395990011b78dfad
+      internalID: -6715005282156002925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1494
+        width: 184
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8fb9a8159798c44879a7766c1cf653
+      internalID: 4433433580460934229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1528
+        width: 150
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277a09ec4c6aa140a5fc5ed6733d75b
+      internalID: -6831698931460805841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1598
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f79d1556d412f241bb3b6287ace1f23
+      internalID: -2019267259644291564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1626
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355b03c23dde994ea43340a5abb9ba4
+      internalID: 8555336778608708386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1598
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6009c4db7e47d4eb2bdb113d22d285
+      internalID: -2028971835476022765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1496
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6dfdd153d77e648b18d9dddbe8f341
+      internalID: -1632030908166520776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1494
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354a8a9402c03fb46ae237eae94ed150
+      internalID: 5144155379325231158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1478
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ce21efe5afa54cb245cd6f5f707b6
+      internalID: 6555209138790213850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1496
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1559d533c1d9274bbf13b9bbd72beab
+      internalID: 6098517209105273443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 180
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d183be96bdcc194ab9fa3d2a0a904b1
+      internalID: 3807122773891793026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1373
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ac018e4bd1bf4e85722813c4d94f9
+      internalID: -6400575690593570227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1399
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae51f179c1aef846a41ab9c2a7eedd3
+      internalID: 1172870859057711622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1399
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e90a9dcb480c49a97263642af164b
+      internalID: -9105557609549119303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 180
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ffb6b0f15b5eb4582fdcb2c09b3040
+      internalID: -3245025503234244409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1331
+        width: 155
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cc4d7da3ee8bd459344561a9295f34
+      internalID: -1320400095470527756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1253
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12feb0e631bc140bae3a90dbe2e733
+      internalID: 6579671327362550092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d9f6432808d1448fcae3ddb8d0aa5
+      internalID: -7701424117634864744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1301
+        width: 123
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd9b61d00d1fc48ab2542fb5f67555
+      internalID: -826231750376653288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1301
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a51bff97c7a334d997af33df12dcdd
+      internalID: 6949993245254644132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 179
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572575895e7262a4d85f1d7a2ccef08e
+      internalID: -120559468752799577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1201
+        width: 162
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759aec0d9648ac43bb2457a01c49426
+      internalID: -6670455242624349484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1227
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9849e1b12ec3545b71be056e3ac643
+      internalID: 2276501345967918577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1223
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe6daf35373b143807064906b58821
+      internalID: -2882099359418135151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1213
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad366bca32b21e40b87f746c26d43d5
+      internalID: -5580254331024027172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 179
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be1d94db24ccb40b9b358d9971dc30
+      internalID: -1344205044129508191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1103
+        width: 146
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38483280e5a39ba499fc8b23088fa6df
+      internalID: 5067066270977469263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_41
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1146
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23b3e09f2584542a6f91fad2069a7e
+      internalID: 908235153688305387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0d7aba56fb6048b70b36c2d5d1e8b
+      internalID: -8424597729469013244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1058
+        width: 163
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b98c51013ad14689c63675b6a287a
+      internalID: -2708358588567861374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_44
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1112
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0fb1e47575ce24abee61cf7bfead60
+      internalID: 5941360279917572040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_45
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1065
+        width: 133
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed3ba405af32594c813af3055a7330a
+      internalID: -6331666142955405099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1073
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e7a5a9be9d53140af056bbc9f20085
+      internalID: -3454954978590009445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10135147f5ccef49a924f4ac7c4c609
+      internalID: 6518651933228815678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_48
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 937
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdab49e30c043549af621d67332d43e
+      internalID: -6632574336374423114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 950
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b43b9ace78a324a81fb5fe1b533837
+      internalID: -5044517677442454185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff3e963ee12c844a2711b22a2de2d1
+      internalID: 5357047814894526234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 840
+        width: 162
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac46420bf2c6944f914439ee63af30c
+      internalID: 8691289799585278984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 800
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799677aa63b7e8d49bb9900f77737f32
+      internalID: 1054849054917200824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d855da14bc14024499cc87c5273c35a
+      internalID: 4794920148264319384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 743
+        width: 162
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4949bf45d2546514985a597197714ba6
+      internalID: 4357299319802099866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_55
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 729
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f7c9f6a0a5b2428a3ccdcbcc1cdb5
+      internalID: -7188121951697152018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_56
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 748
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9627b37e4ef2b846a68fa0062041665
+      internalID: -394763222670525295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_57
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 646
+        width: 162
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ed5783c9bb1e47bf1b2ce32bd9118
+      internalID: 2790311867056892430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 658
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5ba4ee36059049a39e330a48e30b9
+      internalID: 1304966407044898231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_59
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 681
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888e97973390a8b4bbc3cb462760a8c0
+      internalID: -1459945441167046343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_60
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 648
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946959042cdfccb4da42062907522d39
+      internalID: -3492363371375723576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 168
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d25df0103e49f48bb25a1f01c69ac5
+      internalID: -7149835258969124936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 506
+        width: 163
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5856af8c9970a458298b9be4df2997
+      internalID: 4301882543190444538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 527
+        width: 150
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abbe2a78d188c4f8b7e04e1b216403
+      internalID: -7208034701892444586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 618
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7336be6dc2724795ccde67dfa44b2
+      internalID: -6620724234133133839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 168
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4826aa86a6001419897b117ed0cabc
+      internalID: -1838136215783486981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 370
+        width: 163
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a3a950ffd6d14da84227b0c6bc519
+      internalID: -7691244022731885913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 419
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a4d54fba288d941890147bfbd6ef4e
+      internalID: 2877130277722892730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_68
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 426
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a952abe67f4a6a448a365dd6067da3a7
+      internalID: -384185385837829724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 168
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6cb64b5ede174c81cf755074389c5
+      internalID: 5859647174794410495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 163
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d06667aa2fca740bed326ddd4257ed
+      internalID: -8242421910871552682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 311
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a354e1c44c10a7e40bd7b98e6afa6a0d
+      internalID: -1672693852605888827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_72
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 325
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b64b0305eb7b4ab1082866abdbbe2
+      internalID: 4675290449451366112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 168
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f4515a534808489fb3b1959135ab0
+      internalID: 8534599159479536917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 240
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5c85a38ae87641ac9ab41e6ab6bb9
+      internalID: -1336130789410991202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_75
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 259
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177cabae4e151a438110d58061b889f
+      internalID: 7193683044333617628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 214
+        width: 73
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dbf57a3f4d9d34f97d792a2d9f085e
+      internalID: 6202125917450729375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 212
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee331a5591f839442aca138b5ec2b63c
+      internalID: -6038469093480116163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_78
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 115
+        width: 150
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9af9009ec88854a830f37673b59cdd
+      internalID: 7908249748041136343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_79
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 200
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d757ae0ebd494a48a2f01549048be19
+      internalID: 4332293970771093083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 165
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ae1c286d0bd348b8c6e71a0170d68
+      internalID: 2049594247479367149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_81
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 112
+        width: 165
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd64dbe5e74acc840993b0c18897810f
+      internalID: -8048275967879727213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 147
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2928e591943913c489db4077727d839c
+      internalID: -6404286721656437441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_83
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 117
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7647a08c0f6d40bc229ada451950b
+      internalID: -2025071531265864926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 165
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64baa36fd7262ba48b12f5308da3d892
+      internalID: -1238524534658390908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 165
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28df9b93874094caf7443cbb849c14
+      internalID: 4678154398744049606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_86
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 7
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863686efd807934fbe6e7f3f40be259
+      internalID: -2201879695669435149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanks_spritesheetRetina_87
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 14
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764bccd9b819b349bec7450fb7d46f3
+      internalID: -2005454662868737711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6bc8689c6479004cb54f067967cf3c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

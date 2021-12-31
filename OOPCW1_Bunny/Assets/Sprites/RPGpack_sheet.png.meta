@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 48d40514482fdca4086e4a3f84d64303
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3207822760745413231
+    second: RPGpack_sheet_0
+  - first:
+      213: -2880881077900505555
+    second: RPGpack_sheet_1
+  - first:
+      213: -4404568307058339309
+    second: RPGpack_sheet_2
+  - first:
+      213: -240598345965278018
+    second: RPGpack_sheet_3
+  - first:
+      213: 7609024030268698894
+    second: RPGpack_sheet_4
+  - first:
+      213: -3178012556738941974
+    second: RPGpack_sheet_5
+  - first:
+      213: 2222871959370542132
+    second: RPGpack_sheet_6
+  - first:
+      213: 2045245282388145512
+    second: RPGpack_sheet_7
+  - first:
+      213: -1612620667339653916
+    second: RPGpack_sheet_8
+  - first:
+      213: -3872627472475119190
+    second: RPGpack_sheet_9
+  - first:
+      213: -4009692950320311609
+    second: RPGpack_sheet_10
+  - first:
+      213: -5666063027728032197
+    second: RPGpack_sheet_11
+  - first:
+      213: -6827631007811591037
+    second: RPGpack_sheet_12
+  - first:
+      213: 1904029919463722758
+    second: RPGpack_sheet_13
+  - first:
+      213: -666871675801165848
+    second: RPGpack_sheet_14
+  - first:
+      213: 480405483780414590
+    second: RPGpack_sheet_15
+  - first:
+      213: -8813131290491533179
+    second: RPGpack_sheet_16
+  - first:
+      213: -7760609614356431154
+    second: RPGpack_sheet_17
+  - first:
+      213: 3580535103484499852
+    second: RPGpack_sheet_18
+  - first:
+      213: 1450896982793460613
+    second: RPGpack_sheet_19
+  - first:
+      213: 4134093125182279042
+    second: RPGpack_sheet_20
+  - first:
+      213: -4229219708623586359
+    second: RPGpack_sheet_21
+  - first:
+      213: -1849473880676673637
+    second: RPGpack_sheet_22
+  - first:
+      213: 7841854997667214600
+    second: RPGpack_sheet_23
+  - first:
+      213: -1614644852188895443
+    second: RPGpack_sheet_24
+  - first:
+      213: -8117747803926931373
+    second: RPGpack_sheet_25
+  - first:
+      213: 8269962861683528579
+    second: RPGpack_sheet_26
+  - first:
+      213: 7182052136588162878
+    second: RPGpack_sheet_27
+  - first:
+      213: 7671400213400603226
+    second: RPGpack_sheet_28
+  - first:
+      213: 2180679592225396834
+    second: RPGpack_sheet_29
+  - first:
+      213: -3534551330941371253
+    second: RPGpack_sheet_30
+  - first:
+      213: -6098832430316034048
+    second: RPGpack_sheet_31
+  - first:
+      213: -5077764904565686338
+    second: RPGpack_sheet_32
+  - first:
+      213: -3747754470905744875
+    second: RPGpack_sheet_33
+  - first:
+      213: -8474127648252786710
+    second: RPGpack_sheet_34
+  - first:
+      213: -1900646856453288902
+    second: RPGpack_sheet_35
+  - first:
+      213: 7760937309573076547
+    second: RPGpack_sheet_36
+  - first:
+      213: 681665100445567815
+    second: RPGpack_sheet_37
+  - first:
+      213: -4304588722022804552
+    second: RPGpack_sheet_38
+  - first:
+      213: -4978276820586343526
+    second: RPGpack_sheet_39
+  - first:
+      213: 6175800398481190146
+    second: RPGpack_sheet_40
+  - first:
+      213: 7797015469891901489
+    second: RPGpack_sheet_41
+  - first:
+      213: 1202191512059251668
+    second: RPGpack_sheet_42
+  - first:
+      213: 415824402330675581
+    second: RPGpack_sheet_43
+  - first:
+      213: 3255397437972192204
+    second: RPGpack_sheet_44
+  - first:
+      213: -1538656636496813757
+    second: RPGpack_sheet_45
+  - first:
+      213: -5096887668538424327
+    second: RPGpack_sheet_46
+  - first:
+      213: 7391612468585507323
+    second: RPGpack_sheet_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPGpack_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17a1f9c071ed5429c9fb039af42ab2
+      internalID: 3207822760745413231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 779
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e5b8da4f8b812419d360955a91265e
+      internalID: -2880881077900505555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 648
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32fcfc539b4384ea25f38cf0b5ed0b
+      internalID: -4404568307058339309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 753
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9680bc8d5a33d3458a636da26156da8
+      internalID: -240598345965278018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 749
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a5c86c48984f4985032b5f7be8850
+      internalID: 7609024030268698894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 641
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28315243b6ca2e24a93bc5aab59c3799
+      internalID: -3178012556738941974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 642
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61b88e626417c47bd8917f5c2f760e
+      internalID: 2222871959370542132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 776
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad405be5b8e957948a7d9dc3c355cd85
+      internalID: 2045245282388145512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec77aa9ea244b54087797ee9a1b3270
+      internalID: -1612620667339653916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 62
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08f5c836bf65174f8208fbf790f5e0c
+      internalID: -3872627472475119190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 60
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acfa489daf667c4d9274fdfd77a2ad3
+      internalID: -4009692950320311609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396c8bc4245dfe641b467139f02ad96c
+      internalID: -5666063027728032197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd454cc39a7475b4db6081123f8af89a
+      internalID: -6827631007811591037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 194
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e809d6de5aa0184da1af1b25a1b8aea
+      internalID: 1904029919463722758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 193
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07d1c30db8a9e4d9ac7dd8e66c9a5a
+      internalID: -666871675801165848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 191
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8705d290c585554e9985817fe5fc075
+      internalID: 480405483780414590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 449
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92362ffb560cc04aab322cb8e4a86b0
+      internalID: -8813131290491533179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19cb8d8ad12d194ebee32617cd5e942
+      internalID: -7760609614356431154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 577
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29163b9d6d1fe5c4fb810f86be8444e1
+      internalID: 3580535103484499852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 577
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd4ee3478f1ed47ad8e36d63da4f02
+      internalID: 1450896982793460613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 578
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463547561ed4f8c40be9773facb19720
+      internalID: 4134093125182279042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGpack_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 275
+        width: 149
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa298a1981f443d4d938fbda124756d0
+      internalID: -4229219708623586359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fd55d9312ee90684f932c7da98ba213e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
