@@ -1,5 +1,10 @@
 # Bunnies-Vs-Tanks
-2D top down/ platformer. Bunnies break into a army base to steal a nuclear weapon to take over the human world. Created for first year University module 2020.
+
+2D top down/ platformer. Bunnies break into a army base to steal a nuclear weapon to take over the human world. 
+
+Prototype game to demonstrate OOP practices.
+
+Created for first year University module 2020.
 
 ![image](https://user-images.githubusercontent.com/58009594/147837833-9b2e7d54-ac35-4792-8c11-4e23f8d498e0.png)
 ![image](https://user-images.githubusercontent.com/58009594/147837844-bdf08eed-186e-4044-b8e1-2f86fced0f70.png)
